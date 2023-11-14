@@ -1,4 +1,4 @@
-Para inicializar um ambiente virtual na biblioteca Flask, seguiremos os seguintes passos:
+Para inicializar um ambiente virtual na biblioteca Flask, seguiremos os seguintes passos: 
 
 1. Abra o terminal e navegue até o diretório raiz do projeto ao qual foi direcionado pelo link.
 2. Crie um ambiente virtual usando o comando `python -m venv nome_do_ambiente`.
