@@ -1,5 +1,8 @@
+<<<<<<< HEAD
  
 
+=======
+>>>>>>> 749ee10ebe857c84fd4f40517b67acfcea96b242
 Para inicializar um ambiente virtual na biblioteca Flask, seguiremos os seguintes passos: 
 
 1. Abra o terminal e navegue até o diretório raiz do projeto ao qual foi direcionado pelo link.

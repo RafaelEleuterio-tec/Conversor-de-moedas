@@ -95,7 +95,8 @@ body{
 }
 
 #main{
-    margin-left: 300px;
+    margin-left: 274px;
+    width: 100%;
 }
 
 section#inicio {
@@ -223,7 +224,7 @@ sectioncol#container-mt-5 div#row-mt-4{
 .sobrePerfil{
     display: grid;
     grid-template-columns: 500px 1fr 1fr;
-    grid-template-rows: 200px 200px 200px;
+    grid-template-rows: 193px 140px 305px;
     background-color: #fff;
 }
 
@@ -274,8 +275,9 @@ sectioncol#container-mt-5 div#row-mt-4{
     width: 396px;
     height: 450px;
     display: grid;
-    margin-left: -159px;
-    margin-top: 4rem;
+    margin-left: -170px;
+    margin-top: 6rem;
+    justify-content: center;
 }
 .col-md-4{
     margin-left: 1rem;
@@ -395,7 +397,7 @@ sectioncol#container-mt-5 div#row-mt-4{
   
 .ft-container{
     background-color: #252c90;
-    width: 100%;
+    width: 97.5%;
     max-height: 378px;
     min-height: 50px;
     display: grid;
@@ -446,15 +448,15 @@ sectioncol#container-mt-5 div#row-mt-4{
     background-color: #252c90;
     max-height: 200px;
     min-height: 50px;
-    width: 81.7%;
-    margin-left: 18.7rem;
+    width: 98.5%;
+    margin-left: 16.7rem;
     justify-items: start;
     padding-left: 9px;
     
 }
 
 .fa-linkedin{
-    width: 100%;
+    width: 75.7%;
     height: 200px;
     /* display: grid; */
     /* grid-template-columns: 200px 200px 200px; */
@@ -471,7 +473,7 @@ sectioncol#container-mt-5 div#row-mt-4{
 }
 .fa-link{
     display: grid;
-    grid-template-columns: 450px 450px 450px;
+    grid-template-columns: 345px 345px 345px;
 }
 
 .RA {
