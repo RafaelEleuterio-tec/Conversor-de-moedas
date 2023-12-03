@@ -96,7 +96,8 @@ body{
 
 #main{
     margin-left: 274px;
-    width: 100%;
+    width: 89%;
+
 }
 
 section#inicio {
@@ -190,7 +191,27 @@ i.menu-mobile {
     #main{
         margin-left: 0;
     }
+    .col-md-5.d-flex {
+        width: 163px;
+    }
+    .col-md-7.d-flex {
+        justify-content: flex-start;
+        margin: 7px 27px;
+    }
+    .Sobre{
+        display: flex;
+        flex-direction: column;
+    }
+    .sobrePerfil{
+        display: grid;
+        
+    }
+    .sob{
+        display: grid;
+        grid-column: initial;
+    }
 
+    
 }
 
 sectioncol#container-mt-5 div#row-mt-4{
@@ -223,7 +244,7 @@ sectioncol#container-mt-5 div#row-mt-4{
 }  
 .sobrePerfil{
     display: grid;
-    grid-template-columns: 500px 1fr 1fr;
+    grid-template-columns: 350px 350px 350px;
     grid-template-rows: 193px 140px 305px;
     background-color: #fff;
 }
@@ -236,14 +257,17 @@ sectioncol#container-mt-5 div#row-mt-4{
 
 .sob{
     display: grid;
-    grid-template-columns: 150px 1fr;
-    background-color: #fbf5f4;
+    grid-template-columns: 150px 196px;
+    background-color: #004daa;
      
+}
+.col-md-14{
+    width: 213px;
 }
 
 .sobreImag{
    margin-top: 1.4rem;
-   width: 9rem;
+   width: 8rem;
    border-radius: 50%;
 } 
 
@@ -260,30 +284,36 @@ sectioncol#container-mt-5 div#row-mt-4{
    
 }
 .qualificacao{
-    width: 249px;
+    width: 203px;
     height: 93px;
 }
 
 .qualiGrupo{
-    width: 311px;
+    width: 201px;
     height: 103px;
     
 }
 
 .local{
     
-    width: 396px;
+    width: 345px;
     height: 450px;
     display: grid;
-    margin-left: -170px;
+    margin-left: -147px;
     margin-top: 6rem;
     justify-content: center;
 }
 .col-md-4{
-    margin-left: 1rem;
-    padding: 10px;
-        text-decoration-color: rgb(45, 56, 45);
-    
+    margin-left: 0.2rem;
+    padding: 1px;
+
+}
+.card{
+    width: 341px;
+}
+.map{
+    width: 300px;
+    height: 250px;
 }
 
 .fw-lighter{
@@ -307,7 +337,7 @@ sectioncol#container-mt-5 div#row-mt-4{
    
     display: grid;
     margin-left: 7rem;
-    width: 1145px;
+    width: 954px;
     font-size: 40px;
 }
  .text-progama{
